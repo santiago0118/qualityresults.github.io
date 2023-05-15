@@ -182,7 +182,7 @@ nav {
 
 					background: #fcec04;
 					color: #535151;
-					height: 100px;
+					height: 80px;
 					width: 100%; 
 
 
@@ -665,13 +665,13 @@ table, th, td {
 
 #colstats1 {
 	column-count: 2;
-	font-size: 3em;
+	font-size: 50px;
 	font-weight: bold;
   }
 
   #colstats2 {
 	column-count: 2;
-	font-size: 1.3em;
+	font-size: 20px;
   }
 
   
