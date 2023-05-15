@@ -38,8 +38,8 @@ height: 7.2vh ;
 	}
 
 	#instagram-header {
-		width: 1vw;
-	height: 1vh;
+		width: 2vw;
+	height: 2vh;
 		}
 
 		#linkedin-header {
@@ -66,7 +66,7 @@ nav {
 }
 	nav ul {
 		margin: 0;
-		padding-top: 4vw;
+		padding-top: 2vw;
 		list-style: none;
 		padding-right: 0px;
 		display: flex;
