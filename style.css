@@ -655,6 +655,10 @@ table, th, td {
 					padding-left: 15vw;
 					font-size: 2em;
 				 }
+
+				 #colcontactoytrabajo{
+					column-count:2;
+				 }
 #p5{
 	font-family: 'Comfortaa', sans-serif;
 	color: #535151;
