@@ -179,14 +179,13 @@ nav {
 					
 				}
 				#stats-header {
-					margin-top: 30px;
+
 					background: #fcec04;
 					color: #535151;
 					height: 80px;
-					
 					width: 100%; 
-					left: 0; 
-					text-align: center;
+
+
 				}	
 				
 				#columnas3{
@@ -662,4 +661,17 @@ table, th, td {
 	color: #535151;
 	font-size: 8em;
 }
-				
+		
+
+#colstats1 {
+	column-count: 2;
+	font-size: 3em;
+	font-weight: bold;
+  }
+
+  #colstats2 {
+	column-count: 2;
+	font-size: 1.3em;
+  }
+
+  
