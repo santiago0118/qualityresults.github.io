@@ -630,13 +630,24 @@ table, th, td {
 				 
 				   #colservicios1 {
 					column-count: 2;
-					
+					column-gap: 0em;
 
 				  }
 
 				  #colservicios2 {
 					column-count: 2;
-    column-gap: 20vh;
+					font-size: 1.5em;
+				  }
+
+				  #colsectores1 {
+					column-count: 2;
+					column-gap: 0em;
+
+				  }
+
+				  #colsectores2 {
+					column-count: 2;
+					font-size: 1.5em;
 				  }
 
 				  #columnatrabaja{
