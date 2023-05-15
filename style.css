@@ -665,13 +665,13 @@ table, th, td {
 
 #colstats1 {
 	column-count: 2;
-	font-size: 50px;
+	font-size: 312%;
 	font-weight: bold;
   }
 
   #colstats2 {
 	column-count: 2;
-	font-size: 20px;
+	font-size: 125%;
   }
 
   
