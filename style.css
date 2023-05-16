@@ -182,7 +182,7 @@ nav {
 
 					background: #fcec04;
 					color: #535151;
-					height: 100px;
+					height: 80px;
 					width: 100%; 
 
 
@@ -271,7 +271,7 @@ nav {
 					border: 2px solid  #535151;
 
 					font-family: 'Comfortaa', sans-serif; 
-					font-size: 10px;
+					font-size: 1em;
 					width: 280px;    
 					height: 100px;
 				}  
@@ -309,15 +309,7 @@ nav {
 					text-decoration: none;
 				}
 
-				#footer {
-					background: #ffffff;
-					color: #535151;
-						height: 105px;
-					text-align: center;
-					padding: 0px;
-					margin-top: 50px;
-
-				}
+			
 
 				p {
 					font-family: 'Comfortaa', sans-serif;
@@ -411,7 +403,7 @@ nav {
 				}
 				.btn-acordeon:checked ~ .contenido-acordeon{
 					max-height: 600px;
-					padding: 15px 0px;
+
 				}
 				.btn-acordeon{
 					display: none;
@@ -605,22 +597,9 @@ table, th, td {
 					
 				}
 
-				#columnas10{
-					column-count:3;
-					column-gap:0px;
-					column-rule:none none none;
-					list-style: none;
-					float: auto;
-				 }
+				
 
-				 #p4 {
-					font-family: 'Comfortaa', sans-serif;
-					color: #535151;
-					font-size: 2px;
-					float: center;
-					padding: 0px 0 0 0px;
-					text-align: center;
-				}
+			
 
 				
 			  
@@ -655,6 +634,7 @@ table, th, td {
 
 				 #colcontactoytrabajo{
 					column-count:2;
+					
 				 }
 #p5{
 	font-family: 'Comfortaa', sans-serif;
@@ -675,3 +655,14 @@ table, th, td {
   }
 
   
+  p {
+	font-family: 'Comfortaa', sans-serif;
+	color: #535151;
+	font-size: 15px;
+	text-align: center;
+  }
+
+  #columnas10{
+	column-count:3;
+
+ }
